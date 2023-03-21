@@ -1,5 +1,5 @@
 # Minecolab-forge
-                                                 Minecraft Forge server running on Google Colab
+                                     Minecraft Forge server running on Google Colab
 
 Simplemente una adaptación de Minecolab, hecho por **thecoder-001**, para poder correr un servidor de Minecraft versión Forge con mods.
 
@@ -30,3 +30,4 @@ El servidor no va bien del todo, alrededor de unos 17-18 ticks. <sup>(yo lo he p
 3.- Configura la hoja del Colab con los datos de tu servidor, cambiando la ruta de la carpeta donde tengas el servidor en tu Google Drive y el nombre del ejecutador <sup>(generalmente está en \libraries\net\minecraftforge\forge\"nombre de la version"\forge-numero de la version-server.jar)</sup>
 
 4.- Ejecutar el servidor y esperar a que cargue. Dependiendo de los mods, entre 3-5 min.
+Copiar la IP que sale sobre la línea 25 al de la terminal, será algo como '0.tcp.eu.ngrok.io:17748' y pegarla en el cliente de minecraft.
